@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ToDOTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-02-05T18:02:14" hostname="PC044" time="71.69">
+  <properties/>
+  <testcase name="delete task()" classname="ToDOTest" time="9.537"/>
+  <testcase name="check task()" classname="ToDOTest" time="9.146"/>
+  <testcase name="[1] task 1" classname="ToDOTest" time="9.797"/>
+  <testcase name="[2]   " classname="ToDOTest" time="10.413"/>
+  <testcase name="[3] task 2" classname="ToDOTest" time="10.57"/>
+  <testcase name="create tasks()" classname="ToDOTest" time="12.129"/>
+  <testcase name="uncheck task()" classname="ToDOTest" time="10.079"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Feb 05, 2022 9:02:20 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 05, 2022 9:02:29 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 05, 2022 9:02:39 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 05, 2022 9:02:49 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 05, 2022 9:02:59 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 05, 2022 9:03:10 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 05, 2022 9:03:21 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
